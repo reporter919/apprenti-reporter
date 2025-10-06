@@ -4,7 +4,6 @@ Prototype de site web d’un **apprenti reporter indépendant**.
 Premier reportage en cours : **La Commune de Paris (1871)**.  
 
 ## Contenu
-- Page d’accueil au style inspiré de **Brut** (sobre, visuel, centré sur les faits).
 - Mise en avant de trois moments-clés de la Commune :
   - 18 mars 1871 — Le soulèvement
   - Avril 1871 — Les réformes
