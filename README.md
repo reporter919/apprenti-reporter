@@ -12,16 +12,4 @@ Premier reportage en cours : **La Commune de Paris (1871)**.
 - Section **À propos**
 - Section **Contact** avec email : `rollet.francois@proton.me`
 
-## Hébergement
-Le site est publié via **GitHub Pages** :  
-👉 [Lien du site](https://tonpseudo.github.io/apprenti-reporter/) *(remplace `tonpseudo` par ton identifiant GitHub)*
-
-## Objectif
-Apprendre à construire et héberger un site de reportage indépendant, en alliant :
-- Simplicité technique (HTML/CSS pur)
-- Impact visuel
-- Accessibilité des faits historiques
-
----
-
 © 2025 — Apprenti Reporter
